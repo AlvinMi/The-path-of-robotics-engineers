@@ -4,11 +4,11 @@
 来自 [MIT线性代数公开课学习笔记](http://open.163.com/special/opencourse/daishu.html) , 可在网易公开课进行观看。
 
 使用 `jupyter notebook (ipython notebook)` 编写,可在网页中查看。
-如果 GitHub 加载 `.ipynb` 的速度较慢, 可在 (Nbviewer)[] 中查看。
+如果 GitHub 加载 `.ipynb` 的速度较慢, 可在 [Nbviewer](https://nbviewer.jupyter.org/github/AlvinMi/The-path-of-robotics-engineers/blob/master/Math/MIT%20Linear%20Algebra/ReadMe.ipynb) 中查看。
 
 ## 目录
 
-* 第 01 集 [](方程组的几何解释)
+* 第 01 集 [方程组的几何解释]()
 * 第 02 集 []()
 * 第 03 集 []()
 * 第 04 集 []()
